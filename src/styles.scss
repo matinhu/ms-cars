@@ -12,3 +12,57 @@
 .layout {
   background-color: rgb(186, 189, 242);
 }
+
+.home-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.mat-toolbar {
+  background-color: #333;
+  color: white;
+  justify-content: space-between;
+}
+
+.mat-form-field {
+  margin-left: 20px;
+  width: 300px;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.feature {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.feature img {
+  max-width: 400px;
+  height: auto;
+  margin-right: 20px;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+}
+
+.feature p {
+  font-size: 16px;
+  color: #555;
+}
+
+/* Adicione mais estilos personalizados conforme necessário */
+
